@@ -1,8 +1,8 @@
 ## Pythonic Desktop Tools
 
-### _I had recently started some Python tutorials and so this project is for reference_
+### _I had started some Python tutorials and so this project is for reference_
 
-#### This repo is a working reference project. This program performs some common network reconnaisance tasks.
+##### This repo is a working reference project that performs BS desktop tasks.
 
 ---
 
