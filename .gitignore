@@ -3,4 +3,5 @@ lib
 help
 bin
 share
+data
 *.txt
